@@ -1,0 +1,26 @@
+{
+  "name": "datainsight_tea",
+  "version": "1.0.0",
+  "description": "Welcome to DataInsight! DataInsight is a powerful data analysis platform designed to help businesses gain valuable insights from their data. Whether you're a data scientist, a business analyst, or a decision-maker, DataInsight provides the tools and capabilities you need to explore, visualize, and interpret your data effectively. Say hello to informed decision-making and data-driven strategies with DataInsight!",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/2senyi-2/DataInsight.git"
+  },
+  "keywords": [
+  "sample",
+  "npm",
+  "package"
+  ],
+  "author": "2senyi-2",
+  "license": "MIT",
+  "dependencies": {
+  "lodash": "^4.17.21",
+  "axios": "^0.21.1"
+  },
+  "peerDependencies": {
+  "react": ">=16.8.0",
+  "react-dom": ">=16.8.0"
+  }
+  }
